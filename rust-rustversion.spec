@@ -7,7 +7,7 @@
 %global crate rustversion
 
 Name:           rust-rustversion
-Version:        1.0.14
+Version:        1.0.23
 Release:        1
 Summary:        Conditional compilation according to rustc compiler version
 Group:          Development/Rust
